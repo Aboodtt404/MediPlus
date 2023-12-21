@@ -38,7 +38,7 @@ The Clinic Management System is a web application designed to streamline the man
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/mario20212/MediPlus.git
+   git clone https://github.com/Aboodtt404/MediPlus.git
    ```
 
 2. **Install Dependencies:**
@@ -69,5 +69,3 @@ The Clinic Management System is a web application designed to streamline the man
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
-
-**Note:** This README is a template, and you should replace the placeholder content with accurate information about your project. Additionally, include sections such as "Deployment," "Testing," and "Contribution Guidelines" as needed.
